@@ -17,7 +17,7 @@
   **3. Responsive Design:** The application is designed to work on various screen sizes.
 
 # Demo
-  Check out the live demo 
+  Check out the live demo https://ritikkumar1106.github.io/AmazonClone/
 
 # Getting Started
   These instructions will help you set up and run the Amazon clone on your local machine for development and testing purposes.
